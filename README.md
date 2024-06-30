@@ -55,7 +55,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Shows a broad interest across different industries.
 - **Job Title Variety:** Reflects varied roles and specializations within data analytics.
 
-![Top Paying Roles](project_sql\assets\Picture1.png)
+![Top Paying Roles](project_sql\assets\Picture1.png)![Top Paying Roles](Picture1.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; I used Excel to generate this graph from my SQL query results*
 
 ## 2. Skills for Top Paying Jobs
@@ -101,7 +101,7 @@ Here are the top 10 most common skills mentioned in the job postings for data an
 This indicates that SQL and Python are the most sought-after skills, followed closely by Tableau,
 with other tools and languages also being important but less frequently mentioned.
 
-![Top Paying Skills](project_sql\assets\Picture2.png)
+![Top Paying Skills](project_sql\assets\Picture2.png)![Top Paying Skills](Picture2.png)
 *Bar graph visualizing the count of skills most frequently requested in job postings. I used Excel to generate this graph from my SQL query result.*
 
 ## 3. Most In-Demand Skills for Data Analysts
