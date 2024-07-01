@@ -5,11 +5,11 @@ roles, this project explores top-paying jobs, in-demand skills, and where high d
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 # Background
 This project was part of a [SQL course](https://lukebarousse.com/sql). 
-This project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+This project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others' work to find optimal jobs.
 
 Data hails from the [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
-### The questions i wanted to answer through my SQL queries were:
+### The questions I wanted to answer through my SQL queries were:
 1. What are the top-paying data-analyst jobs?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for data analysts?
@@ -247,4 +247,4 @@ From the analysis, several general insights emerged:
 5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value. 
 
 ### Closing Thoughts
-This project enhances my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide prioritizing skill development ad job search efforts. Aspiring data analytics can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+This project enhances my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
